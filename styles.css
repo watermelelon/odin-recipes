@@ -1,0 +1,58 @@
+.main{
+
+    color :brown;
+    background-color:rgb(247, 222, 169);
+    font-weight: bold;
+    font-size: 75px;
+    text-align: center;
+    
+}
+
+.ingredients.steps{
+
+    color: black;
+    background-color: beige;
+    
+
+}
+
+.main_l {
+
+    color:white;
+    background-color: rgb(255, 255, 223);
+    font-size: 30px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+img{
+    height: 400px;
+    width: auto;
+    text-align: center;
+}
+
+.sub{
+    color: black;
+    background-color: aquamarine;
+    font-size: 40px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h2{
+
+    color :brown;
+    background-color:beige;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: left;
+
+}
+
+.container{
+    text-align: center;
+}
+
